@@ -22,6 +22,7 @@ common_sources = [
   'plugins/screenshot_siglent-sdm3000.c',
   'plugins/screenshot_rigol-1000z.c',
   'plugins/screenshot_rigol-dp800.c',
+  'plugins/screenshot_rigol-dp900.c',
   'plugins/screenshot_siglent-sds.c',
   'plugins/screenshot_rigol-2000.c',
   'plugins/screenshot_rigol-dsa.c',
